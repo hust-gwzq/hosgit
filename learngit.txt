@@ -1,1 +1,2 @@
 i'm getting stronger!
+Git is free software.
